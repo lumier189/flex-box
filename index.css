@@ -132,6 +132,8 @@ header > button {
 footer > div > iframe {
     border-radius: 10px 20px 30px;
     margin: 3em;
+    max-width: 30%;
+    max-height: 7%;
 }
 
 a {
@@ -145,7 +147,7 @@ a {
 .first {
     margin-left: 1%;
     margin-right: 3%; 
-    background: url(https://i.pinimg.com/736x/1f/a7/0c/1fa70ced77406850449774062c03fabf.jpg) no-repeat center center;
+    background: url(./img/classico.png) no-repeat center center;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -157,7 +159,7 @@ a {
 .second {
     margin-left: 1%;
     margin-right: 3%; 
-    background: url(https://images.unsplash.com/photo-1470125634816-ede3f51bbb42?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d2lkZXNjcmVlbnxlbnwwfHwwfHw%3D&w=1000&q=80) no-repeat center center;
+    background: url(./img/moderno.png) no-repeat center center;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
@@ -168,7 +170,7 @@ a {
 .third {
     margin-left: 1%;
     margin-right: 3%; 
-    background: url(https://wallpaperaccess.com/full/124585.jpg) no-repeat center center;
+    background: url(./img/industrial.png) no-repeat center center;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
     -o-background-size: 100% 100%;
